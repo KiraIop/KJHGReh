@@ -23,5 +23,10 @@
     "hwid": "afec22ba807009f32cb40b02495db705920e1a335626d80d3aced0a87f6a5cd0",
     "password": "Frost",
     "username": "Wish3254"
+  },
+  "4": {
+    "hwid": "234bfae65d564a070af8879ea435ae5a48ef68a1fc53c660e845e419597c8ca8",
+    "password": "Syrthy",
+    "username": "QjnT8w24ewN"
   }
 }
